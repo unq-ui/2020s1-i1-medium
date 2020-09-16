@@ -1,6 +1,6 @@
 # UNQ » UIs » Medium
 
-[![JitPack](https://jitpack.io/v/unq-ui/2020s1.i1-medium.svg)](https://jitpack.io/#unq-ui/2020s1.i1-medium)
+[![JitPack](https://jitpack.io/v/unq-ui/2020s1-i1-medium.svg)](https://jitpack.io/#unq-ui/2020s1-i1-medium)
 
 Medium es una plataforma donde los usuarios son autores que pueden escribir y comentar notas.
 
@@ -22,7 +22,7 @@ Agregar la dependencia:
 ```xml
 <dependency>
     <groupId>com.github.unq-ui</groupId>
-    <artifactId>2020s1.i1-medium</artifactId>
+    <artifactId>2020s1-i1-medium</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
